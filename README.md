@@ -1,7 +1,3 @@
-# Simple Developer Portfolio Template
-
-![Project Preview](portfolio_preview.jpg)
-
 ## Description
 
 This is a very simple, but elegant responsive portfolio template built using plain JavaScript, HTML, and CSS. It’s designed to be easily customizable, allowing any developer to quickly create a personal portfolio site. Below you'll find detailed information about the features and how to use this template.
@@ -44,13 +40,3 @@ To use this template, follow these steps:
    - Host the project on a server that supports PHP for email functionality.
    - **If hosting on GitHub Pages, note that email handling will not work, since GitHub Pages is a static hosting service**.
 
-## Recent Updates
-
-- Refactored font sizes and styles for improved readability and balance.
-- Reworked animations for smoother transitions and a modern look.
-- Removed the preloader for a faster, simplified user experience.
-- Added [PHP Mailer](https://github.com/PHPMailer/PHPMailer) integration for email handling (requires a PHP-enabled server, not supported on GitHub Pages).
-
-## License
-
-This project is licensed under the MIT License.
